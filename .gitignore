@@ -38,3 +38,10 @@ buildNumber.properties
 *.ear
 *.nar
 hs_err_pid*
+
+##############################
+## JADE
+##############################
+APDescription.txt
+MTPs-Main-Container.txt
+
